@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "toolbox-calidad"
-version = "0.1.0"
+version = "0.1.1"
 description = "Formatos y calculadoras con interfaz gráfica para ingenieros de calidad, mejora continua, seguridad e higiene y medio ambiente"
 readme = "README.md"
 license = {text = "MIT"}
