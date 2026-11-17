@@ -1,5 +1,9 @@
 # Toolbox de Calidad y Mejora Continua
 
+[![tests](https://github.com/framonetm/toolbox-calidad/actions/workflows/tests.yml/badge.svg)](https://github.com/framonetm/toolbox-calidad/actions/workflows/tests.yml)
+
+![Pantalla de inicio de la aplicación](docs/captura.png)
+
 Aplicación de escritorio **libre (MIT)** en Python con interfaz gráfica (Tkinter) que reúne
 **30 formatos y calculadoras** para ingenieros de calidad, mejora continua (TPM/Kaizen),
 seguridad e higiene, protección civil y medio ambiente.
