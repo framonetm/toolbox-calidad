@@ -1,0 +1,983 @@
+{
+ "title": "Identificación y análisis de riesgos — Protección Civil",
+ "options": [
+  "Sí",
+  "No",
+  "N/A"
+ ],
+ "sections": [
+  {
+   "name": "2.1 RIESGOS POR DAÑOS ESTRUCTURALES",
+   "items": [
+    {
+     "code": "2.101",
+     "text": "Presenta inclinación"
+    },
+    {
+     "code": "2.102",
+     "text": "Separación de elementos estructurales"
+    },
+    {
+     "code": "2.103",
+     "text": "Deformación de muros, columnas, losas o trabes"
+    },
+    {
+     "code": "2.104",
+     "text": "Los muros presentan grietas"
+    },
+    {
+     "code": "2.105",
+     "text": "Hundimiento del inmueble"
+    },
+    {
+     "code": "2.106",
+     "text": "Grietas en el piso"
+    },
+    {
+     "code": "2.107",
+     "text": "Existe filtración de agua"
+    },
+    {
+     "code": "2.108",
+     "text": "Presenta daños en escaleras y rampas"
+    },
+    {
+     "code": "2.109",
+     "text": "Cuenta con dictamen técnico"
+    }
+   ]
+  },
+  {
+   "name": "2.2 DESCRIPCIÓN DE LAS ESCALERAS DE SERVICIO",
+   "items": [
+    {
+     "code": "2.201",
+     "text": "Escaleras homogéneas"
+    },
+    {
+     "code": "2.202",
+     "text": "Cuenta con barandal"
+    },
+    {
+     "code": "2.203",
+     "text": "Cuenta con pasamanos"
+    },
+    {
+     "code": "2.204",
+     "text": "Cuenta con cinta antiderrapante"
+    },
+    {
+     "code": "2.205",
+     "text": "Iluminación artificial"
+    }
+   ]
+  },
+  {
+   "name": "2.3 DESCRIPCIÓN DE LAS ESCALERAS DE EMERGENCIA",
+   "items": [
+    {
+     "code": "2.301",
+     "text": "Escaleras homogéneas"
+    },
+    {
+     "code": "2.302",
+     "text": "Cuenta con barandal"
+    },
+    {
+     "code": "2.303",
+     "text": "Cuenta con pasamanos"
+    }
+   ]
+  },
+  {
+   "name": "2.4 RIESGOS POR DEFICIENCIA EN LAS INSTALACIONES DE SERVICIO DEL INMUEBLE",
+   "items": [
+    {
+     "code": "2.401",
+     "text": "Instalación Hidrosanitaria"
+    },
+    {
+     "code": "2.4011",
+     "text": "Presenta fuga"
+    },
+    {
+     "code": "2.4012",
+     "text": "Daños en cisterna"
+    },
+    {
+     "code": "2.4013",
+     "text": "Daños en tubería"
+    },
+    {
+     "code": "2.4014",
+     "text": "Cuenta con dictamen técnico"
+    },
+    {
+     "code": "2.402",
+     "text": "Instalación de gas"
+    },
+    {
+     "code": "2.4021",
+     "text": "Presenta fuga"
+    },
+    {
+     "code": "2.4022",
+     "text": "Anomalías en tanque"
+    },
+    {
+     "code": "2.4023",
+     "text": "Anomalías en tubería"
+    },
+    {
+     "code": "2.4024",
+     "text": "Cuenta con dictamen técnico"
+    },
+    {
+     "code": "2.403",
+     "text": "Instalación eléctrica"
+    },
+    {
+     "code": "2.4031",
+     "text": "Subestación"
+    },
+    {
+     "code": "2.4032",
+     "text": "Tablero"
+    },
+    {
+     "code": "2.4033",
+     "text": "Cableado"
+    },
+    {
+     "code": "2.4034",
+     "text": "Contactos"
+    },
+    {
+     "code": "2.4035",
+     "text": "Interruptores"
+    },
+    {
+     "code": "2.4036",
+     "text": "Lámparas"
+    },
+    {
+     "code": "2.4037",
+     "text": "Lámparas de emergencia"
+    },
+    {
+     "code": "2.4038",
+     "text": "Planta de emergencia"
+    },
+    {
+     "code": "2.4039",
+     "text": "Cuenta con dictamen técnico"
+    },
+    {
+     "code": "2.404",
+     "text": "Instalación de aire acondicionado"
+    },
+    {
+     "code": "2.405",
+     "text": "Instalaciones Especiales"
+    }
+   ]
+  },
+  {
+   "name": "2.5 RIESGOS POR ELEMENTOS NO ESTRUCTURALES",
+   "items": [
+    {
+     "code": "2.501",
+     "text": "Anaqueles y/o estantería"
+    },
+    {
+     "code": "2.502",
+     "text": "Cancelaría"
+    },
+    {
+     "code": "2.503",
+     "text": "Vidrios"
+    },
+    {
+     "code": "2.504",
+     "text": "Puertas y ventanas"
+    },
+    {
+     "code": "2.505",
+     "text": "Antenas"
+    },
+    {
+     "code": "2.506",
+     "text": "Elementos suspendidos"
+    },
+    {
+     "code": "2.507",
+     "text": "Muros falsos"
+    },
+    {
+     "code": "2.508",
+     "text": "Plafones"
+    },
+    {
+     "code": "2.509",
+     "text": "Lámparas"
+    },
+    {
+     "code": "2.51",
+     "text": "Elevadores"
+    }
+   ]
+  },
+  {
+   "name": "2.6 RIESGOS POR ACABADOS EN EL INMUEBLE",
+   "items": [
+    {
+     "code": "2.601",
+     "text": "Lambrines"
+    },
+    {
+     "code": "2.602",
+     "text": "Recubrimiento de material"
+    },
+    {
+     "code": "2.603",
+     "text": "incombustible"
+    },
+    {
+     "code": "2.604",
+     "text": "Recubrimiento de material"
+    },
+    {
+     "code": "2.605",
+     "text": "combustible"
+    },
+    {
+     "code": "2.606",
+     "text": "Pisos y desniveles"
+    },
+    {
+     "code": "2.607",
+     "text": "Pisos falsos"
+    },
+    {
+     "code": "2.608",
+     "text": "Losetas"
+    }
+   ]
+  },
+  {
+   "name": "2.7 RIESGO POR DEFICIENCIAS EN LOS EQUIPOS Y SERVICIOS DE EMERGENCIA",
+   "items": [
+    {
+     "code": "2.701",
+     "text": "Sistema de alertamiento"
+    },
+    {
+     "code": "2.702",
+     "text": "Sistema contra incendio"
+    },
+    {
+     "code": "2.703",
+     "text": "Extintores"
+    },
+    {
+     "code": "2.704",
+     "text": "Equipo de protección personal para"
+    },
+    {
+     "code": "2.705",
+     "text": "Atención de emergencia"
+    },
+    {
+     "code": "2.706",
+     "text": "Material y equipo para atención de"
+    },
+    {
+     "code": "2.707",
+     "text": "Emergencia"
+    },
+    {
+     "code": "2.708",
+     "text": "Rutas de evacuación"
+    },
+    {
+     "code": "2.709",
+     "text": "Salidas de emergencia"
+    },
+    {
+     "code": "2.71",
+     "text": "Señalización"
+    },
+    {
+     "code": "2.711",
+     "text": "Brigadas de emergencia"
+    },
+    {
+     "code": "2.712",
+     "text": "Sistemas de comunicación de emergencia"
+    },
+    {
+     "code": "2.713",
+     "text": "Zonas de seguridad y de conteo"
+    },
+    {
+     "code": "2.714",
+     "text": "Servicios médicos o de primeros auxilios"
+    }
+   ]
+  },
+  {
+   "name": "2.81 OBJETOS QUE PUEDEN CAER",
+   "items": [
+    {
+     "code": "2.8101",
+     "text": "Lámparas"
+    },
+    {
+     "code": "2.8102",
+     "text": "Candiles"
+    },
+    {
+     "code": "2.8103",
+     "text": "Bocinas"
+    },
+    {
+     "code": "2.8104",
+     "text": "Rejillas"
+    },
+    {
+     "code": "2.8105",
+     "text": "Aparadores de Vidrio"
+    },
+    {
+     "code": "2.8106",
+     "text": "Canceles de vidrio"
+    },
+    {
+     "code": "2.8107",
+     "text": "Candelabros"
+    },
+    {
+     "code": "2.8108",
+     "text": "Plafones"
+    },
+    {
+     "code": "2.8109",
+     "text": "Entrepaños o repisas"
+    },
+    {
+     "code": "2.811",
+     "text": "Cuadros"
+    },
+    {
+     "code": "2.8111",
+     "text": "Espejos"
+    },
+    {
+     "code": "2.8112",
+     "text": "Líquidos tóxicos o inflamables"
+    },
+    {
+     "code": "2.8113",
+     "text": "Macetas y otros objetos colgantes"
+    }
+   ]
+  },
+  {
+   "name": "2.82 OBJETOS QUE PUEDEN DESLIZARSE",
+   "items": [
+    {
+     "code": "2.8201",
+     "text": "Escritorios"
+    },
+    {
+     "code": "2.8202",
+     "text": "Mesas"
+    },
+    {
+     "code": "2.8203",
+     "text": "Sillas"
+    },
+    {
+     "code": "2.8204",
+     "text": "Refrigeradores"
+    },
+    {
+     "code": "2.8205",
+     "text": "Y todos aquellos con ruedas"
+    }
+   ]
+  },
+  {
+   "name": "2.83 OBJETOS QUE PUEDEN VOLCAR",
+   "items": [
+    {
+     "code": "2.8301",
+     "text": "Equipo de cómputo"
+    },
+    {
+     "code": "2.8302",
+     "text": "Libreros"
+    },
+    {
+     "code": "2.8303",
+     "text": "Roperos"
+    },
+    {
+     "code": "2.8304",
+     "text": "Lockers"
+    },
+    {
+     "code": "2.8305",
+     "text": "Archiveros"
+    },
+    {
+     "code": "2.8306",
+     "text": "Estantes no anclados"
+    },
+    {
+     "code": "2.8307",
+     "text": "Vitrinas"
+    },
+    {
+     "code": "2.8308",
+     "text": "Tanques de gas"
+    },
+    {
+     "code": "2.8309",
+     "text": "Subdivisiones de espacios no ligados al techo y piso"
+    }
+   ]
+  },
+  {
+   "name": "2.84 OBJETOS QUE PUEDEN INFLAMAR Y/O EXPLOTAR",
+   "items": [
+    {
+     "code": "2.8401",
+     "text": "Recipientes o tanques con combustible"
+    },
+    {
+     "code": "2.8402",
+     "text": "Solventes (thiner, aguarrás) y otras"
+    },
+    {
+     "code": "2.8403",
+     "text": "semejantes"
+    },
+    {
+     "code": "2.8404",
+     "text": "Almacén de papel, cartón, entre otros"
+    }
+   ]
+  },
+  {
+   "name": "2.85 OBJETOS QUE PUEDEN PROPICIAR UN INCENDIO",
+   "items": [
+    {
+     "code": "2.8501",
+     "text": "Cigarros encendidos"
+    },
+    {
+     "code": "2.8502",
+     "text": "Colillas mal apagadas"
+    },
+    {
+     "code": "2.8503",
+     "text": "Velas y veladoras"
+    },
+    {
+     "code": "2.8504",
+     "text": "Recipientes e instalaciones de gas"
+    },
+    {
+     "code": "2.8505",
+     "text": "Cafeteras"
+    },
+    {
+     "code": "2.8506",
+     "text": "Contactos, apagadores, clavijas y cables en mal estado"
+    },
+    {
+     "code": "2.8507",
+     "text": "Hornos de microondas sin base o plato protector"
+    }
+   ]
+  },
+  {
+   "name": "2.86 OBJETOS QUE PUEDEN OBSTACULIZAR UNA EVACUACIÓN",
+   "items": [
+    {
+     "code": "2.8601",
+     "text": "Tapetes"
+    },
+    {
+     "code": "2.8602",
+     "text": "Macetas"
+    },
+    {
+     "code": "2.8603",
+     "text": "Archiveros"
+    },
+    {
+     "code": "2.8604",
+     "text": "Pizarrones portátiles"
+    },
+    {
+     "code": "2.8605",
+     "text": "Muebles"
+    },
+    {
+     "code": "2.8606",
+     "text": "Cubetas, trapeadores, escobas y otros fuera de su lugar"
+    }
+   ]
+  },
+  {
+   "name": "3.1 UBICACIÓN DEL INMUEBLE",
+   "items": [
+    {
+     "code": "3.101",
+     "text": "Norte geográfico del inmueble y sus colindancias"
+    },
+    {
+     "code": "3.102",
+     "text": "Calles y avenidas principales"
+    },
+    {
+     "code": "3.103",
+     "text": "Riesgos externos identificados en el análisis"
+    },
+    {
+     "code": "3.104",
+     "text": "Zonas consideradas como alto riesgo"
+    },
+    {
+     "code": "3.105",
+     "text": "Servicios de emergencia externo"
+    },
+    {
+     "code": "3.106",
+     "text": "Centro de operaciones puesto de mando"
+    },
+    {
+     "code": "3.107",
+     "text": "Rutas de evacuación hacia fuera de la zona de alto riesgo"
+    },
+    {
+     "code": "3.108",
+     "text": "Zonas de conteo o punto de reunión"
+    },
+    {
+     "code": "3.109",
+     "text": "Simbología y su significado"
+    }
+   ]
+  },
+  {
+   "name": "3.21 LISTADO 1 — Elementos de riesgo externos (radio 500 m)",
+   "items": [
+    {
+     "code": "3.2101",
+     "text": "Tanques elevados"
+    },
+    {
+     "code": "3.2102",
+     "text": "Postes de energía eléctrica en mal estado"
+    },
+    {
+     "code": "3.2103",
+     "text": "Torres con líneas de alta tensión"
+    },
+    {
+     "code": "3.2104",
+     "text": "Transformadores de energía eléctrica"
+    },
+    {
+     "code": "3.2105",
+     "text": "Inmuebles aledaños dañados"
+    },
+    {
+     "code": "3.2106",
+     "text": "Banquetas desniveladas"
+    },
+    {
+     "code": "3.2107",
+     "text": "Alcantarillas abiertas"
+    },
+    {
+     "code": "3.2108",
+     "text": "Árboles grandes que puedan caer"
+    },
+    {
+     "code": "3.2109",
+     "text": "Calles muy transitadas"
+    },
+    {
+     "code": "3.211",
+     "text": "Fábricas con instalaciones de Gas L.P."
+    },
+    {
+     "code": "3.2111",
+     "text": "Tanques de gas L.P."
+    },
+    {
+     "code": "3.2112",
+     "text": "Gasolineras y/o Gaseras"
+    },
+    {
+     "code": "3.2113",
+     "text": "Anuncios volados o espectaculares"
+    },
+    {
+     "code": "3.2114",
+     "text": "Almacenes de sustancias peligrosas"
+    },
+    {
+     "code": "3.2115",
+     "text": "Fábricas"
+    },
+    {
+     "code": "3.2116",
+     "text": "Planta de PEMEX"
+    },
+    {
+     "code": "3.2117",
+     "text": "Basureros"
+    },
+    {
+     "code": "3.2118",
+     "text": "Vías del ferrocarril"
+    },
+    {
+     "code": "3.2119",
+     "text": "Ríos y laderas"
+    },
+    {
+     "code": "3.212",
+     "text": "Costas"
+    },
+    {
+     "code": "3.2121",
+     "text": "Presas"
+    },
+    {
+     "code": "3.2122",
+     "text": "Otros"
+    }
+   ]
+  },
+  {
+   "name": "3.22 LISTADO No. 2 — Agentes perturbadores",
+   "items": [
+    {
+     "code": "3.2201",
+     "text": "Accidente mayor"
+    },
+    {
+     "code": "3.22011",
+     "text": "Accidente de vehículos que transporten materiales químicos peligrosos (explosivos, gas, cloro, gasolina, solventes, otros)"
+    },
+    {
+     "code": "3.22012",
+     "text": "Accidente en donde se involucren vehículos terrestres de transporte de pasajeros"
+    },
+    {
+     "code": "3.22013",
+     "text": "Accidente en donde se involucren vehículos aéreos"
+    },
+    {
+     "code": "3.22014",
+     "text": "Accidente en donde se involucren vehículos marítimos de transporte de carga"
+    },
+    {
+     "code": "3.22015",
+     "text": "Accidente en donde se involucren vehículos marítimos de transporte de pasajeros"
+    },
+    {
+     "code": "3.22016",
+     "text": "Otros, ¿Cuál o cuales?"
+    },
+    {
+     "code": "3.2202",
+     "text": "Acto delictivo"
+    },
+    {
+     "code": "3.22021",
+     "text": "Robo"
+    },
+    {
+     "code": "3.22022",
+     "text": "Robo con violencia"
+    },
+    {
+     "code": "3.22023",
+     "text": "Secuestro"
+    },
+    {
+     "code": "3.22024",
+     "text": "Invasión de bienes inmuebles"
+    },
+    {
+     "code": "3.22025",
+     "text": "Interrupción de vialidades"
+    },
+    {
+     "code": "3.22026",
+     "text": "Sabotaje a los Servicios Públicos"
+    },
+    {
+     "code": "3.22027",
+     "text": "Sabojate a los Servicios Privados"
+    },
+    {
+     "code": "3.22028",
+     "text": "Otros, ¿Cuál o cuales?"
+    },
+    {
+     "code": "3.2203",
+     "text": "Disturbios sociales"
+    },
+    {
+     "code": "3.22031",
+     "text": "Marchas y manifestaciones"
+    },
+    {
+     "code": "3.22032",
+     "text": "Plantones y mítines"
+    },
+    {
+     "code": "3.22033",
+     "text": "Actos vandálicos"
+    },
+    {
+     "code": "3.22034",
+     "text": "Otros. ¿cuáles?"
+    },
+    {
+     "code": "3.2204",
+     "text": "Agrietamiento de terreno"
+    },
+    {
+     "code": "3.2205",
+     "text": "Hundimiento de terreno"
+    },
+    {
+     "code": "3.2206",
+     "text": "Deslave"
+    },
+    {
+     "code": "3.2207",
+     "text": "Deslizamiento de talud"
+    },
+    {
+     "code": "3.2208",
+     "text": "Deforestación"
+    },
+    {
+     "code": "3.2209",
+     "text": "Desertificación"
+    },
+    {
+     "code": "3.221",
+     "text": "Erosión del suelo productivo"
+    },
+    {
+     "code": "3.2211",
+     "text": "Sobre-explotación de fuentes de agua"
+    },
+    {
+     "code": "3.2212",
+     "text": "Sobre-explotación del manto freático"
+    },
+    {
+     "code": "3.2213",
+     "text": "Sismo"
+    },
+    {
+     "code": "3.2213",
+     "text": "Caída de torres de alta tensión"
+    },
+    {
+     "code": "3.2213",
+     "text": "Tsunami"
+    },
+    {
+     "code": "3.2213",
+     "text": "Otros: ¿cuáles?"
+    },
+    {
+     "code": "3.2214",
+     "text": "Vulcanismo"
+    },
+    {
+     "code": "3.2214",
+     "text": "Lluvia de ceniza"
+    },
+    {
+     "code": "3.2214",
+     "text": "Afectación por lava"
+    },
+    {
+     "code": "3.2214",
+     "text": "Afectación por flujos piro plásticos"
+    },
+    {
+     "code": "3.2214",
+     "text": "Afectación por flujos de lodo"
+    },
+    {
+     "code": "3.2214",
+     "text": "Otros: ¿cuáles?"
+    },
+    {
+     "code": "3.2215",
+     "text": "AGENTE PERTURBADOR DE TIPO FÍSICO-QUÍMICO"
+    },
+    {
+     "code": "3.2215",
+     "text": "Incendio"
+    },
+    {
+     "code": "3.2215",
+     "text": "Forestal"
+    },
+    {
+     "code": "3.2215",
+     "text": "Rural"
+    },
+    {
+     "code": "3.2215",
+     "text": "Industrial"
+    },
+    {
+     "code": "3.2215",
+     "text": "Gasolinera"
+    },
+    {
+     "code": "3.22151",
+     "text": "Gasera"
+    },
+    {
+     "code": "3.22151",
+     "text": "Tlapalería"
+    },
+    {
+     "code": "3.22151",
+     "text": "Mercado"
+    },
+    {
+     "code": "3.22151",
+     "text": "Otros ¿cuáles?"
+    },
+    {
+     "code": "3.2216",
+     "text": "Fuga o derrame de materiales químicos peligrosos"
+    },
+    {
+     "code": "3.2217",
+     "text": "Exposición a materiales radioactivos"
+    },
+    {
+     "code": "3.2218",
+     "text": "Explosión"
+    },
+    {
+     "code": "3.2219",
+     "text": "Contaminación"
+    },
+    {
+     "code": "3.2219",
+     "text": "del aire"
+    },
+    {
+     "code": "3.2219",
+     "text": "del suelo"
+    },
+    {
+     "code": "3.2219",
+     "text": "del agua"
+    },
+    {
+     "code": "3.222",
+     "text": "AGENTE PERTURBADOR DE TIPO HIDROMETEOROLÓGICO"
+    },
+    {
+     "code": "3.222",
+     "text": "Inundación"
+    },
+    {
+     "code": "3.222",
+     "text": "por río"
+    },
+    {
+     "code": "3.222",
+     "text": "por lago, laguna, presa"
+    },
+    {
+     "code": "3.222",
+     "text": "por lluvia"
+    },
+    {
+     "code": "3.222",
+     "text": "por mar"
+    },
+    {
+     "code": "3.2221",
+     "text": "Vientos fuertes"
+    },
+    {
+     "code": "3.2222",
+     "text": "Huracán"
+    },
+    {
+     "code": "3.2223",
+     "text": "Marea de Tormenta"
+    },
+    {
+     "code": "3.2224",
+     "text": "Tormenta eléctrica"
+    },
+    {
+     "code": "3.2225",
+     "text": "Lluvia torrencial"
+    },
+    {
+     "code": "3.2226",
+     "text": "Tromba"
+    },
+    {
+     "code": "3.2227",
+     "text": "Tornado"
+    },
+    {
+     "code": "3.2228",
+     "text": "Helada"
+    },
+    {
+     "code": "3.2229",
+     "text": "Nevada"
+    },
+    {
+     "code": "3.223",
+     "text": "Avalancha de nieve"
+    },
+    {
+     "code": "3.2231",
+     "text": "Sequía"
+    },
+    {
+     "code": "3.2233",
+     "text": "Epidemia"
+    },
+    {
+     "code": "3.2234",
+     "text": "Plaga"
+    },
+    {
+     "code": "3.2235",
+     "text": "Envenenamiento"
+    }
+   ]
+  }
+ ],
+ "source": "Protección Civil - Evaluación de Riesgos.xls"
+}

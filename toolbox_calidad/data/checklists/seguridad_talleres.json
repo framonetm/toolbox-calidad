@@ -1,0 +1,197 @@
+{
+ "title": "Diagnóstico de condiciones de seguridad y medio ambiente — Talleres",
+ "options": [
+  "Sí",
+  "No",
+  "N/A"
+ ],
+ "sections": [
+  {
+   "name": "A. INSTALACIONES",
+   "items": [
+    {
+     "code": "1",
+     "text": "Distribución de maquinaria y/o equipo (orden y limpieza)"
+    },
+    {
+     "code": "2",
+     "text": "Herramientas utilizadas (orden y limpieza)"
+    },
+    {
+     "code": "3",
+     "text": "Lugar para guardar equipo de protección personal"
+    },
+    {
+     "code": "4",
+     "text": "Piso del área"
+    },
+    {
+     "code": "5",
+     "text": "Tipo de ventilación adecuada"
+    },
+    {
+     "code": "6",
+     "text": "En caso de ser artificial, ¿El aire que se extrae no contamina a otras áreas?"
+    },
+    {
+     "code": "7",
+     "text": "¿El sistema se inicia al menos 15 minutos antes que ingresen los trabajadores?"
+    }
+   ]
+  },
+  {
+   "name": "B. EQUIPO CONTRA INCENDIOS",
+   "items": [
+    {
+     "code": "1",
+     "text": "Se cuentan con al menos 2 extintores?"
+    },
+    {
+     "code": "2",
+     "text": "¿Estan colocados a nivel de piso?"
+    },
+    {
+     "code": "3",
+     "text": "¿Estan protegidos de humedad y de daños?"
+    },
+    {
+     "code": "4",
+     "text": "¿Sabe usar un extintor?"
+    },
+    {
+     "code": "5",
+     "text": "¿Conoce las rutas de evacuación ?"
+    }
+   ]
+  },
+  {
+   "name": "C. MAQUINARIA",
+   "items": [
+    {
+     "code": "1",
+     "text": "¿ La maquinaria se encuentra anclada ?"
+    },
+    {
+     "code": "2",
+     "text": "¿ La tiene partes móviles que pueden dañar al trabajador ?"
+    },
+    {
+     "code": "3",
+     "text": "¿ Se cuenta con guardas u otros elementos de proteción?"
+    },
+    {
+     "code": "4",
+     "text": "¿ Permiten el movimiento libre del trabajador?"
+    },
+    {
+     "code": "5",
+     "text": "¿ Permiten la visibilidad necesaria para efectuar la operación?"
+    },
+    {
+     "code": "6",
+     "text": "¿ Se genera electricidad estática ?"
+    },
+    {
+     "code": "7",
+     "text": "¿ Cual es la máxima temperatura que se genera ?"
+    },
+    {
+     "code": "8",
+     "text": "¿ Existen superficies cortantes ?"
+    },
+    {
+     "code": "9",
+     "text": "¿ Existen proyección de objetos y materiales ?"
+    }
+   ]
+  },
+  {
+   "name": "D. SUSTANCIAS QUIMICAS",
+   "items": [
+    {
+     "code": "1",
+     "text": "¿ Se cuentan con las Hojas de seguridad de estas sustancias en el área ?"
+    },
+    {
+     "code": "2",
+     "text": "¿ El trabajador conoce los riesgo o sabe interpretar dichas hojas de seguridad ?"
+    },
+    {
+     "code": "3",
+     "text": "¿ Se mantienen cerrados los recipientes químicos antes y despues de su uso ?"
+    },
+    {
+     "code": "4",
+     "text": "¿ Se cuenta con un área especifica para su almacenamiento ?"
+    },
+    {
+     "code": "5",
+     "text": "¿ Se separan los químicos para evitar reacciones indeseables por incompatibilidad?"
+    }
+   ]
+  },
+  {
+   "name": "E. SEÑALIZACION Y EPP",
+   "items": [
+    {
+     "code": "1",
+     "text": "¿ Que tipo de señales se tienen en el área de trabajo ? Indique las que apliquen"
+    },
+    {
+     "code": "2",
+     "text": "¿ El trabajador esta familiarizado con las señales y sabe interpretarlas ?"
+    },
+    {
+     "code": "3",
+     "text": "En caso que la señal cuente con texto ¿ Este no excede 3 palabras ?"
+    }
+   ]
+  },
+  {
+   "name": "F. ACTIVIDADES DE CORTE Y SOLDADURA",
+   "items": [
+    {
+     "code": "1",
+     "text": "¿ Se cuenta con un extintor ABC en un radio no mayor a 7 m ?"
+    },
+    {
+     "code": "2",
+     "text": "¿ Se cuenta con mamparas o casetas para soldar ?"
+    },
+    {
+     "code": "3",
+     "text": "¿ Se cuenta con ventilación natural y/o artificial adecuada ?"
+    },
+    {
+     "code": "4",
+     "text": "¿ Se cuenta con bitacora de condiciones de seguridad que incluya al menos lo siguiente ?"
+    },
+    {
+     "code": "5",
+     "text": "¿ Se verifica que las conexiones de las mangueras no presenten fugas ?"
+    },
+    {
+     "code": "6",
+     "text": "¿ Se verifica que las conexiones de las mangueras no presenten corrosión?"
+    },
+    {
+     "code": "7",
+     "text": "¿ Se verifica que las conexiones de las mangueras esten hermeticas?"
+    },
+    {
+     "code": "8",
+     "text": "¿ Se verifica que el equipo este aterrizado ?"
+    },
+    {
+     "code": "9",
+     "text": "¿ El voltaje de la línea de alimentación es adecuado para la máquina ?"
+    },
+    {
+     "code": "10",
+     "text": "¿ Como reaccionaría ante una fuga de gases combustibles ?"
+    }
+   ]
+  }
+ ],
+ "source": "Seguridad en Talleres.xls"
+}

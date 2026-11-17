@@ -1,0 +1,671 @@
+{
+ "title": "Simulacros — Listas de verificación (PROFEPA)",
+ "options": [
+  "Sí",
+  "No",
+  "N/A"
+ ],
+ "score": "0-5",
+ "sections": [
+  {
+   "name": "Respuesta a Emergencias",
+   "items": [
+    {
+     "code": "1",
+     "text": "Hora en que fue notificada la emergencia"
+    },
+    {
+     "code": "2",
+     "text": "Hora de arrivo de la brigada de respuesta a la emergencia al sitio del evento"
+    },
+    {
+     "code": "3",
+     "text": "Se reporto la brigada de respuesta al puesto de mando una vez que esta arrivo al sitio del evento"
+    },
+    {
+     "code": "4",
+     "text": "Antes de llevar a cabo cualquier accion la brigada de respuesta espero intrucciones del puesto de mando"
+    },
+    {
+     "code": "5",
+     "text": "El personal responsable de la respuesta a la emergencia contaba con el equipo de proteccion adecuado de acuerdo al riesgo de la(s) sustancia(s) involucrada(s)"
+    },
+    {
+     "code": "6",
+     "text": "Durante la colocacion del equipo de proteccion personal hubo apoyo entre sus integrantes"
+    },
+    {
+     "code": "7",
+     "text": "El proceso de colocacion del equipo de proteccion personal fue el adecuado"
+    },
+    {
+     "code": "8",
+     "text": "El numero de tanques de respiracion autonoma eran los suficientes para la atencion de la emergencia"
+    },
+    {
+     "code": "9",
+     "text": "Se llevo a cabo una revision final de cada uno de los miembros de la brigada de respuesta que ingresarian al area caliente"
+    },
+    {
+     "code": "10",
+     "text": "Tiempo transcurrido desde del arrivo de la brigada de respuesta hasta su ingreso al area caliente"
+    },
+    {
+     "code": "11",
+     "text": "Se contaba con personal de respaldo totalmente equipado y disponible en caso de requerirse su ingreso a la zona de riesgo"
+    },
+    {
+     "code": "12",
+     "text": "El ingreso a la zona de riesgo considero la direccion de los vientos"
+    },
+    {
+     "code": "13",
+     "text": "Una vez ingresado a la zona de riesgo se conto con la hoja de seguridad del producto involucrado"
+    },
+    {
+     "code": "14",
+     "text": "Se dispuso de explosimetros en el lugar del evento?. en cantidades suficientes?"
+    },
+    {
+     "code": "15",
+     "text": "Se monitorearon las condiciones de explosividad en el sitio durante la atencion de la emergencia y despues de haber sido controlada"
+    },
+    {
+     "code": "16",
+     "text": "Se procedio a la revision y atención de las victimas del evento"
+    },
+    {
+     "code": "17",
+     "text": "Las victimas fueron retiradas del area de riesgo"
+    },
+    {
+     "code": "18",
+     "text": "El empleo de materiales y equipos fue el adecuado para el control de la emergencia"
+    },
+    {
+     "code": "19",
+     "text": "Las entradas y salidas a la zona caliente por parte del personal de la brigada de respuesta a la emergencia se hizo a traves de la ruta previamente definida para tal fin"
+    },
+    {
+     "code": "20",
+     "text": "Controlado el evento la brigada de respuesta lo hizo del conocimiento del puesto de mando"
+    },
+    {
+     "code": "21",
+     "text": "En caso de que haya sido necesaria la participacion de otra brigrada de respuesta hubo una total coordinacion de acciones durante el control del evento"
+    },
+    {
+     "code": "22",
+     "text": "Tiempo transcurrido desde el arrivo de la brigadad de respuesta hasta el control del evento"
+    }
+   ]
+  },
+  {
+   "name": "Comando del Incidente",
+   "items": [
+    {
+     "code": "1",
+     "text": "Se empleo un sistema de comando de incidente"
+    },
+    {
+     "code": "2",
+     "text": "Se establecio un puesto de mando fijo"
+    },
+    {
+     "code": "3",
+     "text": "Estaba plenamente identificado el puesto de mando"
+    },
+    {
+     "code": "4",
+     "text": "El puesto de mando estaba ubicado estrategicamente"
+    },
+    {
+     "code": "5",
+     "text": "Tenia el puesto de mando el apoyo adecuado (por ejemplo: comunicaciones, planos, msds, etc.)"
+    },
+    {
+     "code": "6",
+     "text": "Designo el comandante de incidente un oficial de seguridad"
+    },
+    {
+     "code": "7",
+     "text": "El comandante en la escena: era facilmente identificable"
+    },
+    {
+     "code": "8",
+     "text": "Asumio correctamente el mando e informo a las autoridades apropiadas"
+    },
+    {
+     "code": "9",
+     "text": "Transfirio el mando cuando fue apropiado"
+    },
+    {
+     "code": "10",
+     "text": "Delego a traves de divisiones"
+    },
+    {
+     "code": "11",
+     "text": "Establecio un area de operaciones, un oficial de seguridad"
+    },
+    {
+     "code": "12",
+     "text": "Establecio perimetros bien definidos del accidente"
+    },
+    {
+     "code": "13",
+     "text": "El control de acceso a la instalacion fue adecuado"
+    },
+    {
+     "code": "14",
+     "text": "Se tenian mapas y tableros sobre la emergencia permanentemente exhibidos"
+    },
+    {
+     "code": "15",
+     "text": "Se actualizaba periodicamente la informacion"
+    },
+    {
+     "code": "16",
+     "text": "Tuvo el personal de respuesta acceso suficiente a equipos e informacion"
+    },
+    {
+     "code": "17",
+     "text": "Habia personal de apoyo logistico"
+    },
+    {
+     "code": "18",
+     "text": "Se documentaron todas las acciones tomadas"
+    },
+    {
+     "code": "19",
+     "text": "Se conto con una lista de recursos humanos y materiales disponibles para la emergencia"
+    },
+    {
+     "code": "20",
+     "text": "Se conto con una lista de las autoridades y organismos que tenian equipo disponible de apoyo a la emergencia"
+    },
+    {
+     "code": "21",
+     "text": "Que medios se utilzaron para alertar al personal de la instalacion"
+    },
+    {
+     "code": "22",
+     "text": "Se encontaban actualizadas las listas de personas y agencias a llamar, incluyendo suplentes."
+    },
+    {
+     "code": "23",
+     "text": "Cuales agencias de primera respuesta fueron llamadas"
+    },
+    {
+     "code": "24",
+     "text": "Estuvo personal disponible para proporcionar apoyo logistico"
+    },
+    {
+     "code": "25",
+     "text": "Establecio un area para los medios de comunicación"
+    },
+    {
+     "code": "26",
+     "text": "Estaba enterado el personal que solo el vocero oficial daria informacion a los medios"
+    },
+    {
+     "code": "27",
+     "text": "Estaba el comandante en escena efectivamente al mando del incidente"
+    }
+   ]
+  },
+  {
+   "name": "Brigada Contra Incendio",
+   "items": [
+    {
+     "code": "1",
+     "text": "Hora en que se recibio el reporte"
+    },
+    {
+     "code": "2",
+     "text": "Se proporcionaron y/o recabaron todos los datos del evento (domicilio, sustancia y cantidad involucrada, tipo de instalacion y de siniestro, heridos, etc.)"
+    },
+    {
+     "code": "3",
+     "text": "Hora de salida de la estacion de bomberos"
+    },
+    {
+     "code": "4",
+     "text": "Hora de arribo al lugar del evento"
+    },
+    {
+     "code": "5",
+     "text": "Se reporto al puesto de mando"
+    },
+    {
+     "code": "6",
+     "text": "La informacion recibida del puesto de mando permitio dimensionar la magnitud y caracteristicas del evento. se confirmo tipo y cantidad de sustancia involucrada"
+    },
+    {
+     "code": "7",
+     "text": "Se tuvo control sobre los cuerpos de bomberos y brigadas que arribaron al lugar del evento"
+    },
+    {
+     "code": "8",
+     "text": "Se les informo a las brigadas que arribaban del estatus del evento"
+    },
+    {
+     "code": "9",
+     "text": "Se llevo un registro de la cantidad y habilidades de los recursos humanos (pitoneros, rescatistas, etc) y materiales disponibles (espuma, cantidad de agua, detectores, etc)."
+    },
+    {
+     "code": "10",
+     "text": "Se tenian formatos pre elaborados para capturar la informacion anterior. les fueron entregados a las brigadas que arribaban"
+    },
+    {
+     "code": "11",
+     "text": "Se hizo del conocimiento del puesto de mando la disponibilidad de recursos humanos y materiales en el sitio."
+    },
+    {
+     "code": "12",
+     "text": "Se tuvo control de los vehiculos de bomberos que arribaron al lugar"
+    },
+    {
+     "code": "13",
+     "text": "Se dispuso de un area de reposo para los bomberos de apoyo o en stand by"
+    },
+    {
+     "code": "14",
+     "text": "Estaba debidamente identificado el personal de las diferentes brigadas contraincendio y hazmat"
+    },
+    {
+     "code": "15",
+     "text": "Se reviso la escena desde una distancia segura antes de ingresar al area de riesgo"
+    },
+    {
+     "code": "16",
+     "text": "Tuvo la brigada contra incendios acceso a la hoja de datos de seguridad del material"
+    },
+    {
+     "code": "17",
+     "text": "Se determino el nivel de respuesta del incidente"
+    },
+    {
+     "code": "18",
+     "text": "Se establecio un area de operaciones viento arriba"
+    },
+    {
+     "code": "19",
+     "text": "Se monitorearon las condiciones meteorologicas en el lugar del evento o de alguna forma se tenia acceso a dicha información."
+    },
+    {
+     "code": "20",
+     "text": "La ropa de proteccion y equipo de respiracion de todos los miembros de la brigada era el apropiado"
+    },
+    {
+     "code": "21",
+     "text": "Se contaba con detectores"
+    },
+    {
+     "code": "22",
+     "text": "Los equipos utilizados eran apropiados para el tipo de evento que se atendia"
+    },
+    {
+     "code": "23",
+     "text": "Se monitoreo la sustancia en los alrededores. ¡en que sitios?"
+    },
+    {
+     "code": "24",
+     "text": "Se ingreso a la escena en pareja"
+    },
+    {
+     "code": "25",
+     "text": "Habia equipos de respaldo adecuadamente equipados disponibles en la escena"
+    },
+    {
+     "code": "26",
+     "text": "El oficial de seguridad era claramente identificable"
+    },
+    {
+     "code": "27",
+     "text": "Antes de retirarse del sitio se verificaron las condiciones de salud del personal y el estado de los equipos"
+    },
+    {
+     "code": "28",
+     "text": "Estaba enterado el personal que solo el vocero oficial daria informacion a los medios"
+    }
+   ]
+  },
+  {
+   "name": "Brigada de Evacuacion",
+   "items": [
+    {
+     "code": "1",
+     "text": "Hora en que se da la orden de evacuar"
+    },
+    {
+     "code": "2",
+     "text": "Medio a traves del cual se da conocer la orden de evacuación. se considera que dicho metodo fue facilmente reconocido por el personal"
+    },
+    {
+     "code": "3",
+     "text": "Existe suficiente y adecuada señalizacion de las rutas de evacuacion"
+    },
+    {
+     "code": "4",
+     "text": "Existe personal de apoyo para la evacuacion. es facilmente identificable."
+    },
+    {
+     "code": "5",
+     "text": "La actitud del personal a evacuar y de apoyo a la evacuación fue seria y participativa"
+    },
+    {
+     "code": "6",
+     "text": "Se observa coordinacion entre los miembros de la brigada para realizar la evacuación."
+    },
+    {
+     "code": "7",
+     "text": "El lider de la brigada mantiene informado al comando del incidente"
+    },
+    {
+     "code": "8",
+     "text": "La ruta de evacuacion es apropiada."
+    },
+    {
+     "code": "9",
+     "text": "El medio de transporte utilizado para realizar la evacuacion es apropiado"
+    },
+    {
+     "code": "10",
+     "text": "Se realizo busqueda y recate durante la evacuacion"
+    },
+    {
+     "code": "11",
+     "text": "Tiempo que tomo la evacuacion del personal hasta el centro de conteo"
+    },
+    {
+     "code": "12",
+     "text": "Se tienen plenamente identificados los centros de reunión y conteo del personal."
+    },
+    {
+     "code": "13",
+     "text": "Es un area segura el centro de reunion"
+    },
+    {
+     "code": "14",
+     "text": "Se lleva un adecuado registro del personal en el centro de conteo"
+    },
+    {
+     "code": "15",
+     "text": "Cual es la actitud del personal en el centro de conteo. se le mantiene informado acerca del riesgo, magnitud y evolución de la emergencia"
+    },
+    {
+     "code": "16",
+     "text": "Hora y medio mediante el cual se da la orden de retorno a las instalaciones"
+    }
+   ]
+  },
+  {
+   "name": "Servicio Medico",
+   "items": [
+    {
+     "code": "1",
+     "text": "Hora en que se recibe la llamada"
+    },
+    {
+     "code": "2",
+     "text": "Hora en que arriba la ambulancia al sitio"
+    },
+    {
+     "code": "3",
+     "text": "Hora en que la ambulancia parte del sitio"
+    },
+    {
+     "code": "4",
+     "text": "Hora en que la ambulancia arriba al hospital"
+    },
+    {
+     "code": "5",
+     "text": "Hora en que se concluye con el servicio"
+    },
+    {
+     "code": "6",
+     "text": "(capacidad de respuesta) se asistio a la emergencia con la cantidad de personal necesario"
+    },
+    {
+     "code": "7",
+     "text": "Las ambulancias cuentan con el equipo basico de trauma"
+    },
+    {
+     "code": "8",
+     "text": "Se asistio a la emergencia con la cantidad de ambulancias necesaria"
+    },
+    {
+     "code": "9",
+     "text": "El personal paramedico conoce los procedimientos basicos de seguridad"
+    },
+    {
+     "code": "10",
+     "text": "(calidad de respuesta del servicio de ambulancias) los paramedicos se reportaron con el comando del accidente"
+    },
+    {
+     "code": "11",
+     "text": "Solicitaron informacion de la sustancia involucrada"
+    },
+    {
+     "code": "12",
+     "text": "Los paramedicos se mantuvieron en el area fria"
+    },
+    {
+     "code": "13",
+     "text": "Verificaron que el paciente estuviera descontaminado"
+    },
+    {
+     "code": "14",
+     "text": "Dado el tipo de pacientes que se recibian el equipo de proteccion personal de la brigada medica era apropiado"
+    },
+    {
+     "code": "15",
+     "text": "Se dio un manejo adecuado a la via aerea"
+    },
+    {
+     "code": "16",
+     "text": "Se dio un manejo adecuado al control de shock"
+    },
+    {
+     "code": "17",
+     "text": "Se empaqueta adecuadamente a los lesionados"
+    },
+    {
+     "code": "18",
+     "text": "Se da tratamiento adecuado a las quemaduras"
+    },
+    {
+     "code": "19",
+     "text": "Se detecto y evito contaminacion secundaria de personal, equipos y vehiculos"
+    },
+    {
+     "code": "20",
+     "text": "Se dispone de antidotos para la sustancia involucrada"
+    },
+    {
+     "code": "21",
+     "text": "Se demostro habilidad para ejecutar triage, tramiento, recepción y envio de pacientes"
+    },
+    {
+     "code": "22",
+     "text": "Se dispone de directorios actualizados de centros de informacion toxicologica y de hospitales con capacidad para atender esta clase de pacientes"
+    },
+    {
+     "code": "23",
+     "text": "Se establece contacto con el hospital receptor"
+    },
+    {
+     "code": "24",
+     "text": "Informacion transmitida al hospital: tiempo estimado de arribo, edad y sexo del paciente, condicion del paciente, lesiones asociadas, rutas, extensión y duracion de la exposicion al quimico, historial medico pertinente, signos y sintomas, signos vitales, tratamiento, incluyendo descontaminacion y respuesta del paciente, caracteristicas del quimico"
+    },
+    {
+     "code": "25",
+     "text": "Se informa al comando del accidente la conclusion del servicio"
+    }
+   ]
+  },
+  {
+   "name": "Coordinacion con Autoridades",
+   "items": [
+    {
+     "code": "1",
+     "text": "Coordinación interinstitucional — Antes"
+    },
+    {
+     "code": "2",
+     "text": "Coordinación interinstitucional — Durante"
+    },
+    {
+     "code": "3",
+     "text": "Coordinación interinstitucional — Despues"
+    },
+    {
+     "code": "4",
+     "text": "Evolucion de la emergencia — Prealerta"
+    },
+    {
+     "code": "5",
+     "text": "Evolucion de la emergencia — Alerta"
+    },
+    {
+     "code": "6",
+     "text": "Evolucion de la emergencia — Alarma"
+    },
+    {
+     "code": "7",
+     "text": "Se establecio — Areas convocadas"
+    },
+    {
+     "code": "8",
+     "text": "Se establecio — Acciones realizadas"
+    },
+    {
+     "code": "9",
+     "text": "Se establecio — Equipos usados en el coe*"
+    },
+    {
+     "code": "10",
+     "text": "Información al publico — Vocero"
+    },
+    {
+     "code": "11",
+     "text": "Información al publico — Atención a medios"
+    },
+    {
+     "code": "12",
+     "text": "Información al publico — Información a la comunidad"
+    },
+    {
+     "code": "13",
+     "text": "Evaluación de daños — Estructurales"
+    },
+    {
+     "code": "14",
+     "text": "Evaluación de daños — Humanos al medio ambiente"
+    },
+    {
+     "code": "15",
+     "text": "Evaluación de daños — Infraestructura"
+    },
+    {
+     "code": "16",
+     "text": "Evaluación de refugios temporales — Instalados"
+    },
+    {
+     "code": "17",
+     "text": "Evaluación de refugios temporales — Servicios"
+    },
+    {
+     "code": "18",
+     "text": "Evaluación de refugios temporales — Reglamento"
+    },
+    {
+     "code": "19",
+     "text": "Evaluación de refugios temporales — Suministro"
+    },
+    {
+     "code": "20",
+     "text": "Evaluación de refugios temporales — Apoyo a la asistencia medica"
+    },
+    {
+     "code": "21",
+     "text": "Evaluación de refugios temporales — Evacuación y acordonoamiento"
+    },
+    {
+     "code": "22",
+     "text": "Evaluación de refugios temporales — Delmitacion de zonas( caliente,tibia y fria)"
+    },
+    {
+     "code": "23",
+     "text": "Evaluación de refugios temporales — Rutas de evacuación"
+    },
+    {
+     "code": "24",
+     "text": "Evaluación de refugios temporales — Búsqueda y localización de personas"
+    },
+    {
+     "code": "25",
+     "text": "Evaluación de refugios temporales — Transportes para la evacuacion"
+    },
+    {
+     "code": "26",
+     "text": "Evaluación de refugios temporales — Tiempos de arribo"
+    },
+    {
+     "code": "27",
+     "text": "Evaluación de refugios temporales — Descontaminacion de personas, areas y equipo."
+    },
+    {
+     "code": "28",
+     "text": "Evaluación de refugios temporales — Sistemas de comunicación"
+    },
+    {
+     "code": "29",
+     "text": "Evaluación de refugios temporales — Equipos de protección personal"
+    },
+    {
+     "code": "30",
+     "text": "Evaluación de refugios temporales — Procedimiento de vuelta a la normalidad"
+    },
+    {
+     "code": "31",
+     "text": "Evaluación de refugios temporales — Coordinación entre unidades internas de protección civil"
+    },
+    {
+     "code": "32",
+     "text": "Evaluación de refugios temporales — Nación entre unidad estatal, municipal y la empresa"
+    },
+    {
+     "code": "33",
+     "text": "Evaluación de refugios temporales — Coordinación upc’s* y grupo (s) de ayuda mutua"
+    },
+    {
+     "code": "34",
+     "text": "Evaluación de refugios temporales — Información al nivel federal"
+    },
+    {
+     "code": "35",
+     "text": "Evaluación de refugios temporales — Alertamiento"
+    },
+    {
+     "code": "36",
+     "text": "Evaluación de refugios temporales — Reportes preliminares"
+    },
+    {
+     "code": "37",
+     "text": "Evaluación de refugios temporales — Reporte final del cierre de operaciones"
+    },
+    {
+     "code": "38",
+     "text": "Evaluación de refugios temporales — Duración del simulacro"
+    },
+    {
+     "code": "39",
+     "text": "Evaluación de refugios temporales — *upc’s: unidad de proteccion civil estatal y/o municipal"
+    }
+   ]
+  }
+ ],
+ "source": "SIMULACROS—LISTA DE VERIFICACION DE PROFEPA.xlsx",
+ "nota": "Cada apartado se califica de 0 a 5. Si todos los apartados del rol aplicaron, se suman y se promedian entre el número de apartados; si no, la suma se promedia sólo entre los apartados que aplicaron."
+}

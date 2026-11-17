@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "toolbox-calidad"
+version = "0.1.0"
+description = "Formatos y calculadoras con interfaz gráfica para ingenieros de calidad, mejora continua, seguridad e higiene y medio ambiente"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+dependencies = ["openpyxl>=3.1"]
+
+[project.scripts]
+toolbox-calidad = "toolbox_calidad.app:main"
+
+[tool.setuptools.packages.find]
+include = ["toolbox_calidad*"]
+
+[tool.setuptools.package-data]
+toolbox_calidad = ["data/*.json", "data/*.csv", "data/checklists/*.json"]

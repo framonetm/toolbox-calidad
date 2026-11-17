@@ -1,0 +1,307 @@
+{
+ "title": "Acta de verificación de recorrido — Comisión de Seguridad e Higiene",
+ "options": [
+  "Cumple",
+  "No cumple",
+  "N/A"
+ ],
+ "sections": [
+  {
+   "name": "1. INSPECCION FISICA",
+   "items": [
+    {
+     "code": "1.1.1",
+     "text": "Accesos y Puertas"
+    },
+    {
+     "code": "1.2.1",
+     "text": "Condiciones"
+    },
+    {
+     "code": "1.3.1",
+     "text": "Acordonadas o Cubiertas"
+    },
+    {
+     "code": "1.1.2",
+     "text": "Estructura"
+    },
+    {
+     "code": "1.2.2",
+     "text": "Pasillos"
+    },
+    {
+     "code": "1.3.2",
+     "text": "Autorizaciones"
+    },
+    {
+     "code": "1.1.3",
+     "text": "Caminos"
+    },
+    {
+     "code": "1.2.3",
+     "text": "Iluminación"
+    },
+    {
+     "code": "1.3.3",
+     "text": "Equipo de Protección"
+    },
+    {
+     "code": "1.1.4",
+     "text": "Áreas de Trabajo"
+    },
+    {
+     "code": "1.2.4",
+     "text": "Pasamanos"
+    },
+    {
+     "code": "1.3.4",
+     "text": "Otros"
+    },
+    {
+     "code": "1.1.5",
+     "text": "Otros"
+    },
+    {
+     "code": "1.2.5",
+     "text": "Barandales"
+    },
+    {
+     "code": "1.2.6",
+     "text": "Superficies"
+    },
+    {
+     "code": "1.2.7",
+     "text": "Escaleras"
+    },
+    {
+     "code": "1.2.8",
+     "text": "Otros"
+    }
+   ]
+  },
+  {
+   "name": "2. INSTALACIONES ELÉCTRICAS",
+   "items": [
+    {
+     "code": "2.1",
+     "text": "Dispositivos de Seguridad"
+    },
+    {
+     "code": "2.4",
+     "text": "Instalaciones Provisionales"
+    },
+    {
+     "code": "2.2",
+     "text": "Identificación Voltaje"
+    },
+    {
+     "code": "2.5",
+     "text": "Tableros de Control"
+    },
+    {
+     "code": "2.3",
+     "text": "Electricidad Estática"
+    },
+    {
+     "code": "2.6",
+     "text": "Alta Tensión"
+    },
+    {
+     "code": "",
+     "text": "Otros"
+    }
+   ]
+  },
+  {
+   "name": "3. SERVICIOS",
+   "items": [
+    {
+     "code": "3.1",
+     "text": "Depósitos Independientes de Agua Potable e Incendios"
+    },
+    {
+     "code": "3.3",
+     "text": "Vestidores"
+    },
+    {
+     "code": "3.2",
+     "text": "Sanitarios"
+    },
+    {
+     "code": "3.4",
+     "text": "Regaderas"
+    },
+    {
+     "code": "",
+     "text": "Otros"
+    }
+   ]
+  },
+  {
+   "name": "4. MANEJO, TRANSPORTE Y ALMACENAMIENTO DE MATERIALES",
+   "items": [
+    {
+     "code": "4.1.1",
+     "text": "Estabilidad"
+    },
+    {
+     "code": "4.2.1",
+     "text": "Almacenamiento"
+    },
+    {
+     "code": "4.1.2",
+     "text": "Compatibilidad"
+    },
+    {
+     "code": "4.2.2",
+     "text": "Manejo"
+    },
+    {
+     "code": "4.1.3",
+     "text": "Protección"
+    },
+    {
+     "code": "4.2.3",
+     "text": "Señalamiento de Seguridad"
+    },
+    {
+     "code": "4.1.4",
+     "text": "Otros"
+    },
+    {
+     "code": "4.2.4",
+     "text": "Otros"
+    }
+   ]
+  },
+  {
+   "name": "5. EQUIPOS DE PROTECCIÓN PERSONAL",
+   "items": [
+    {
+     "code": "5.1",
+     "text": "Adecuado"
+    },
+    {
+     "code": "5.3",
+     "text": "Condicion"
+    },
+    {
+     "code": "5.2",
+     "text": "Disponibilidad"
+    },
+    {
+     "code": "5.4",
+     "text": "Uso"
+    },
+    {
+     "code": "",
+     "text": "Otros"
+    }
+   ]
+  },
+  {
+   "name": "6. ORDEN Y LIMPIEZA",
+   "items": [
+    {
+     "code": "6.1",
+     "text": "Aseo general"
+    },
+    {
+     "code": "6.2",
+     "text": "Contenedores de basura"
+    },
+    {
+     "code": "6.3",
+     "text": "Sanitario"
+    },
+    {
+     "code": "",
+     "text": "Otros"
+    }
+   ]
+  },
+  {
+   "name": "7. SISTEMA CONTRA INCENDIO",
+   "items": [
+    {
+     "code": "7.1",
+     "text": "Rutas de evacuación (Interior)"
+    },
+    {
+     "code": "7.4",
+     "text": "Uso y manejo de extintor"
+    },
+    {
+     "code": "7.2",
+     "text": "Puntos de reunión"
+    },
+    {
+     "code": "7.5",
+     "text": "Señalamiento de ubicación de equipo"
+    },
+    {
+     "code": "7.3",
+     "text": "Capacitación de brigadas"
+    },
+    {
+     "code": "7.6",
+     "text": "Estado del equipo"
+    },
+    {
+     "code": "",
+     "text": "Otros"
+    }
+   ]
+  },
+  {
+   "name": "8. SEÑALAMIENTO DE SEGURIDAD",
+   "items": [
+    {
+     "code": "8.1.2",
+     "text": "EPP"
+    },
+    {
+     "code": "8.2.1",
+     "text": "Electricidad"
+    },
+    {
+     "code": "8.3.1",
+     "text": "Evacuación"
+    },
+    {
+     "code": "8.4.1",
+     "text": "No Fumar"
+    },
+    {
+     "code": "8.2.2",
+     "text": "Explosivo"
+    },
+    {
+     "code": "8.3.2",
+     "text": "Salidas"
+    },
+    {
+     "code": "8.4.2",
+     "text": "No Celular"
+    },
+    {
+     "code": "8.2.3",
+     "text": "Quimicos"
+    },
+    {
+     "code": "8.3.3",
+     "text": "Botiquin"
+    },
+    {
+     "code": "8.4.3",
+     "text": "Accesos"
+    },
+    {
+     "code": "",
+     "text": "Otros"
+    }
+   ]
+  }
+ ],
+ "source": "Recorridos de la Comisión de Seguridad e Higiene.xls"
+}

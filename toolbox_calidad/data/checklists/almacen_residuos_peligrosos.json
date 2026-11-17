@@ -1,0 +1,98 @@
+{
+ "title": "Requisitos auditables — Almacenamiento de residuos peligrosos (RLGPGIR Art. 82)",
+ "options": [
+  "S",
+  "N",
+  "NA"
+ ],
+ "sections": [
+  {
+   "name": "ALMACENAMIENTO (GENERALES)",
+   "items": [
+    {
+     "code": "1",
+     "text": "¿ Las áreas donde se almacenan los residuos estan separadas de las áreas de producción, servicios, oficinas y de almacenamiento de materias primas o productos terminados? [ Art. 82 Fracc. I a) ]"
+    },
+    {
+     "code": "2",
+     "text": "¿Estan ubicadas en zonas donde se reduzcan los riesgos por posibles emisiones, fugas, incendios, explosiones e inundaciones? [ Art. 82 Fracc. I b) ]"
+    },
+    {
+     "code": "3",
+     "text": "¿Se cuenta con dispositivos para contener posibles derrames, tales como muros, pretiles de contención o fosas de retención para la captación de los residuos en estado líquido o de los lixiviados? [ Art. 82 Fracc. I c) ]"
+    },
+    {
+     "code": "4",
+     "text": "Cuando se almacenan residuos líquidos, se deberá contar en sus pisos con pendientes y, en su caso, con trincheras o canaletas que conduzcan los derrames a las fosas de retención con capacidad para contener una quinta parte como mínimo de los residuos almacenados o del volumen del recipiente de mayor tamaño [ Art. 82 Fracc. I d) ]"
+    },
+    {
+     "code": "5",
+     "text": "Contar con pasillos que permitan el tránsito de equipos mecánicos, eléctricos o manuales, así como el movimiento de grupos de seguridad y bomberos, en casos de emergencia [ Art. 82 Fracc. I e) ]"
+    },
+    {
+     "code": "6",
+     "text": "Se cuenta con sistemas de extinción de incendios y equipos de seguridad para atención de emergencias, acordes con el tipo y la cantidad de los residuos peligrosos almacenados [ Art. 82 Fracc. I f) ]"
+    },
+    {
+     "code": "7",
+     "text": "¿Se cuenta con señalamientos y letreros alusivos a la peligrosidad de los residuos peligrosos almacenados, en lugares y formas visibles? [ Art. 82 Fracc. I g) ]"
+    },
+    {
+     "code": "8",
+     "text": "¿El almacenamiento se realiza en recipientes identificados considerando las características de peligrosidad de los residuos, así como su incompatibilidad, previniendo fugas, derrames, emisiones, explosiones e incendios? [ Art. 82 Fracc. I h) ]"
+    },
+    {
+     "code": "9",
+     "text": "¿La altura máxima de las estibas es de tres tambores en forma vertical? [ Art. 82 Fracc. I i) ]"
+    }
+   ]
+  },
+  {
+   "name": "ALMACENAMIENTO - AREAS CERRADAS",
+   "items": [
+    {
+     "code": "10",
+     "text": "Verificar que No existan conexiones con drenajes en el piso, válvulas de drenaje, juntas de expansión, albañales o cualquier otro tipo de apertura que pudieran permitir que los líquidos fluyan fuera del área protegida [ Art. 82 Fracc. II a) ]"
+    },
+    {
+     "code": "11",
+     "text": "Las paredes deben estar construidas con materiales no inflamables [ Art. 82 Fracc. II b) ]"
+    },
+    {
+     "code": "12",
+     "text": "Contar con ventilación natural o forzada. En los casos de ventilación forzada, debe tener una capacidad de recepción de por lo menos seis cambios de aire por hora [ Art. 82 Fracc. II c) ]"
+    },
+    {
+     "code": "13",
+     "text": "Estar cubiertas y protegidas de la intemperie y, en su caso, contar con ventilación suficiente para evitar acumulación de vapores peligrosos y con iluminación a prueba de explosión [ Art. 82 Fracc. II d) ]"
+    },
+    {
+     "code": "14",
+     "text": "No rebasar la capacidad instalada del almacén [ Art. 82 Fracc. II e) ]"
+    }
+   ]
+  },
+  {
+   "name": "ALMACENAMIENTO - AREAS ABIERTAS",
+   "items": [
+    {
+     "code": "15",
+     "text": "Estar localizadas en sitios cuya altura sea, como mínimo, el resultado de aplicar un factor de seguridad de 1.5; al nivel de agua alcanzado en la mayor tormenta registrada en la zona [ Art. 82 Fracc. III a) ]"
+    },
+    {
+     "code": "16",
+     "text": "Los pisos deben ser lisos y de material impermeable en la zona donde se guarden los residuos, y de material antiderrapante en los pasillos. Estos deben ser resistentes a los residuos peligrosos almacenados [ Art. 82 Fracc. III b) ]"
+    },
+    {
+     "code": "17",
+     "text": "En los casos de áreas abiertas no techadas, no deberán almacenarse residuos peligrosos a granel, cuando éstos produzcan lixiviados[ Art. 82 Fracc. III c) ]"
+    },
+    {
+     "code": "18",
+     "text": "En los casos de áreas no techadas, los residuos peligrosos deben estar cubiertos con algún material impermeable para evitar su dispersión por viento [ Art. 82 Fracc. III d) ]"
+    }
+   ]
+  }
+ ],
+ "source": "REQUISITOS AUDITABLES — ALMACENAMIENTO RESIDUOS PELIGROSOS.xls"
+}

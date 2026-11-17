@@ -1,0 +1,96 @@
+{
+ "title": "Condiciones medioambientales — Ventilación y climatización",
+ "options": [
+  "Sí",
+  "No",
+  "N/A"
+ ],
+ "sections": [
+  {
+   "name": "Ventilación y climatización",
+   "items": [
+    {
+     "code": "1",
+     "text": "Se utilizan sustancias químicas tóxicas o nocivas, o existen focos de generación de contaminantes (polvo, humo, nieblas, gases o vapores)."
+    },
+    {
+     "code": "2",
+     "text": "Se han instalado extracciones localizadas en las zonas o puntos donde se puede producir la generación y dispersión de contaminantes ambientales."
+    },
+    {
+     "code": "3",
+     "text": "Estas extracciones disponen de campanas de captación de forma y tamaño adecuados a las características de los focos de generación."
+    },
+    {
+     "code": "4",
+     "text": "Se han adoptado precauciones para evitar corrientes de aire transversales que puedan afectar a los sistemas de extracción localizada."
+    },
+    {
+     "code": "5",
+     "text": "Se comprueba periódicamente el funcionamiento de los sistemas de extracción localizada."
+    },
+    {
+     "code": "6",
+     "text": "El caudal del sistema de extracción localizada es suficiente para capturar los contaminantes."
+    },
+    {
+     "code": "7",
+     "text": "Se lleva a cabo una limpieza y un mantenimiento periódicos de los elementos de la instalación de extracción localizada."
+    },
+    {
+     "code": "8",
+     "text": "Se comprueba por inspección visual la integridad física de los elementos del sistema."
+    },
+    {
+     "code": "9",
+     "text": "Se miden periódicamente las emisiones atmosféricas de los sistemas de extracción localizada para verificar el cumplimiento de lo legislado."
+    },
+    {
+     "code": "10",
+     "text": "Los sistemas de extracción tiene depuradores o filtros."
+    },
+    {
+     "code": "11",
+     "text": "Se realiza una adecuada gestión de los residuos recogidos y/o generados en la limpieza y mantenimiento de los elementos de depuración."
+    },
+    {
+     "code": "12",
+     "text": "Se dispone de un sistema de ventilación general (natural o forzada) de los locales de trabajo."
+    },
+    {
+     "code": "13",
+     "text": "En todos los locales hay suministro de aire limpio y extracción de aire viciado."
+    },
+    {
+     "code": "14",
+     "text": "Se ha comprobado, mediante medición, que el sistema proporciona los caudales de aire exterior mínimos exigidos."
+    },
+    {
+     "code": "15",
+     "text": "Es posible regular el sistema de modo que en todo momento (para toda actividad y/o nivel de ocupación) proporcione la ventilación necesaria."
+    },
+    {
+     "code": "16",
+     "text": "El número de elementos para el suministro y extracción de aire, así como su distribución, permiten asegurar la eficacia del sistema de ventilación."
+    },
+    {
+     "code": "17",
+     "text": "Las tomas de aire exterior se encuentran suficientemente alejadas de los puntos de descarga del aire contaminado."
+    },
+    {
+     "code": "18",
+     "text": "Se dispone de sistemas (independientes o integrados en el sistema de ventilación) para la climatización de los locales."
+    },
+    {
+     "code": "19",
+     "text": "El programa de mantenimiento de la instalación incluye las operaciones de limpieza del equipo y sustitución de filtros."
+    },
+    {
+     "code": "20",
+     "text": "Se realiza, si existen, el mantenimiento preventivo de instalaciones tales como los humidificadores o las torres de refrigeración."
+    }
+   ]
+  }
+ ],
+ "source": "VENTILACION Y CLIMATIZACION - Check list.xls"
+}

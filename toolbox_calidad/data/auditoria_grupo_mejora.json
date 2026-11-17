@@ -1,0 +1,254 @@
+[
+ {
+  "n": 1,
+  "categoria": "Planificación",
+  "subcategoria": "Grupo",
+  "pregunta": "¿Se ha hecho una lista de los miembros del grupo?",
+  "puntos": 1
+ },
+ {
+  "n": 2,
+  "categoria": "Planificación",
+  "subcategoria": "Grupo",
+  "pregunta": "¿Se han asignado a todos los miembros del grupo roles claros dentro del grupo?",
+  "puntos": 1
+ },
+ {
+  "n": 3,
+  "categoria": "Planificación",
+  "subcategoria": "Enlace con los negocios",
+  "pregunta": "¿Está claro por qué se han fijado objetivos a este problema del grupo? ¿Hay un enlace claro con los KPI de empresa/área?",
+  "puntos": 4
+ },
+ {
+  "n": 4,
+  "categoria": "Planificación",
+  "subcategoria": "Enlace con los negocios",
+  "pregunta": "¿Se ha incorporado un diagrama de costes/beneficios?¿Está actualizado?",
+  "puntos": 4
+ },
+ {
+  "n": 5,
+  "categoria": "Planificación",
+  "subcategoria": "Indicadores de prestación",
+  "pregunta": "¿Se muestran claramente los datos históricos (intervalo de tiempo y valor real)?",
+  "puntos": 1
+ },
+ {
+  "n": 6,
+  "categoria": "Planificación",
+  "subcategoria": "Indicadores de prestación",
+  "pregunta": "¿Se muestra claramente el objetivo del indicador de prestación (intervalo de tiempo y valor)?",
+  "puntos": 1
+ },
+ {
+  "n": 7,
+  "categoria": "Planificación",
+  "subcategoria": "Indicadores de prestación",
+  "pregunta": "¿El indicador de prestación está subdividido en componentes definibles (como se requiere)?",
+  "puntos": 1
+ },
+ {
+  "n": 8,
+  "categoria": "Planificación",
+  "subcategoria": "Recorrido y plan general",
+  "pregunta": "¿Recorrido y plan general son claramente visibles? ¿Está actualizado el plan general?",
+  "puntos": 2
+ },
+ {
+  "n": 9,
+  "categoria": "Implementación",
+  "subcategoria": "Aplicación metodología y análisis problemas",
+  "pregunta": "¿Está claro el objetivo de cada paso?",
+  "puntos": 1
+ },
+ {
+  "n": 10,
+  "categoria": "Implementación",
+  "subcategoria": "Aplicación metodología y análisis problemas",
+  "pregunta": "¿Los objetivos del paso se han subdividido en actividades específicas?",
+  "puntos": 1
+ },
+ {
+  "n": 11,
+  "categoria": "Implementación",
+  "subcategoria": "Aplicación metodología y análisis problemas",
+  "pregunta": "¿Se han utilizado análisis de causa raíz/cuantitativo para comprender el problema? ¿Están bien documentados?",
+  "puntos": 1
+ },
+ {
+  "n": 12,
+  "categoria": "Implementación",
+  "subcategoria": "Aplicación metodología y análisis problemas",
+  "pregunta": "¿Se han cuantificado y verificado con datos las causas del problema sospechado?",
+  "puntos": 1
+ },
+ {
+  "n": 13,
+  "categoria": "Implementación",
+  "subcategoria": "Aplicación metodología y análisis problemas",
+  "pregunta": "¿En todos los turnos se lleva a cabo asiduamente la recogida de datos?¿Se han captado todos los datos?",
+  "puntos": 1
+ },
+ {
+  "n": 14,
+  "categoria": "Implementación",
+  "subcategoria": "Aplicación metodología y análisis problemas",
+  "pregunta": "¿El equipo ha utilizado los métodos/herramientas de recorrido para atajar los problemas?",
+  "puntos": 2
+ },
+ {
+  "n": 15,
+  "categoria": "Implementación",
+  "subcategoria": "Aplicación metodología y análisis problemas",
+  "pregunta": "¿Está presente y actualizado el análisis de las repeticiones?",
+  "puntos": 1
+ },
+ {
+  "n": 16,
+  "categoria": "Implementación",
+  "subcategoria": "Aplicación metodología y análisis problemas",
+  "pregunta": "¿Cada análisis del problema se aplica y sigue?",
+  "puntos": 1
+ },
+ {
+  "n": 17,
+  "categoria": "Implementación",
+  "subcategoria": "Acciones /medidas\nDefinición",
+  "pregunta": "¿El grupo ha encontrado las medidas lógicas a aplicar para identificar las causas raíz y definir las acciones con una lógica segura?",
+  "puntos": 2
+ },
+ {
+  "n": 18,
+  "categoria": "Implementación",
+  "subcategoria": "Acciones /medidas\nDefinición",
+  "pregunta": "¿Se han restablecido las condiciones básicas en las áreas críticas?",
+  "puntos": 3
+ },
+ {
+  "n": 19,
+  "categoria": "Implementación",
+  "subcategoria": "Planificación y ejecución acciones",
+  "pregunta": "¿Las acciones planificadas son claramente visibles con fecha de logro de los objetivos?",
+  "puntos": 5
+ },
+ {
+  "n": 20,
+  "categoria": "Implementación",
+  "subcategoria": "Planificación y ejecución acciones",
+  "pregunta": "¿Existe un responsable para cada acción?",
+  "puntos": 2
+ },
+ {
+  "n": 21,
+  "categoria": "Implementación",
+  "subcategoria": "Planificación y ejecución acciones",
+  "pregunta": "¿Está actualizado el plan de acción?",
+  "puntos": 2
+ },
+ {
+  "n": 22,
+  "categoria": "Implementación",
+  "subcategoria": "Planificación y ejecución acciones",
+  "pregunta": "¿La mayoría de las acciones se completan a tiempo?",
+  "puntos": 3
+ },
+ {
+  "n": 23,
+  "categoria": "Implementación",
+  "subcategoria": "Planificación y ejecución acciones",
+  "pregunta": "¿Existe evidencia de las acciones implementadas (Lup´s, fotos, estándares, modificaciones, etc.)?",
+  "puntos": 4
+ },
+ {
+  "n": 24,
+  "categoria": "Control / resultados",
+  "subcategoria": "Control / resultados",
+  "pregunta": "¿Es positiva la tendencia de los indicadores de prestación (soluciones eficaces)?",
+  "puntos": 15
+ },
+ {
+  "n": 25,
+  "categoria": "Control / resultados",
+  "subcategoria": "Control / resultados",
+  "pregunta": "¿El grupo ha cumplido su objetivo o hecho progresos sustanciales frente a tal objetivo?",
+  "puntos": 15
+ },
+ {
+  "n": 26,
+  "categoria": "Estabilización",
+  "subcategoria": "Estándares",
+  "pregunta": "¿Están en su sitio los procedimientos para conservar las ganancias conseguidas?",
+  "puntos": 2
+ },
+ {
+  "n": 27,
+  "categoria": "Estabilización",
+  "subcategoria": "Estándares",
+  "pregunta": "¿Están en su sitio y visibles los sistemas de control (lista de control, impresos, controles, etc.)?",
+  "puntos": 2
+ },
+ {
+  "n": 28,
+  "categoria": "Estabilización",
+  "subcategoria": "Estándares",
+  "pregunta": "¿Se usan los dispositivos del sistema de control y están al día?",
+  "puntos": 2
+ },
+ {
+  "n": 29,
+  "categoria": "Estabilización",
+  "subcategoria": "Lup´s",
+  "pregunta": "¿Se han creado Lup´s/Estandar Operativo para cada mejora significativa?",
+  "puntos": 2
+ },
+ {
+  "n": 30,
+  "categoria": "Estabilización",
+  "subcategoria": "Lup´s",
+  "pregunta": "¿Se usa una matriz de capacitación para Lup´s/Estandar y existe una plan de capacitación del personal involucrado?",
+  "puntos": 2
+ },
+ {
+  "n": 31,
+  "categoria": "Estabilización",
+  "subcategoria": "Condiciones generales de la línea/ máquina",
+  "pregunta": "¿Existen claros estándares de limpieza, lubricación e inspección para las áreas críticas? ¿Los auditores de Estandares de Limpieza e inspección logran por lo menos el 90%?",
+  "puntos": 3
+ },
+ {
+  "n": 32,
+  "categoria": "Estabilización",
+  "subcategoria": "Condiciones generales de la línea/ máquina",
+  "pregunta": "¿Está bien organizado el puesto de trabajo (5S)?",
+  "puntos": 1
+ },
+ {
+  "n": 33,
+  "categoria": "Estabilización",
+  "subcategoria": "Condiciones generales de la línea/ máquina",
+  "pregunta": "¿Son evidentes las mejoras de las máquinas en las áreas objetivo?",
+  "puntos": 1
+ },
+ {
+  "n": 34,
+  "categoria": "Involucración",
+  "subcategoria": "Involucración",
+  "pregunta": "¿Todos los miembros del grupo comprenden bien el recorrido de la metodología a seguir?",
+  "puntos": 5
+ },
+ {
+  "n": 35,
+  "categoria": "Involucración",
+  "subcategoria": "Involucración",
+  "pregunta": "¿Puede explicar el tablero de actividad un miembro del grupo elegido al azar?",
+  "puntos": 3
+ },
+ {
+  "n": 36,
+  "categoria": "Involucración",
+  "subcategoria": "Involucración",
+  "pregunta": "¿La organización de las reuniones y la asistencia están a los niveles previstos?",
+  "puntos": 2
+ }
+]
